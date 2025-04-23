@@ -9,9 +9,11 @@ function App() {
   return (
     <>
      <Header/>
+     <div style={{width:"100px",height:"100px",backgroundColor:"blue"}}></div>
+<h>Hello</h>
      <LoginPage/>
     </>
   )
 }
 
-export default App
+export default App;
