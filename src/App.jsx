@@ -1,4 +1,4 @@
-
+import './i18n';
 import './App.css'
 import Header from './components/header/Header'
 import LoginPage from './components/main/loginPage/LoginPage'
