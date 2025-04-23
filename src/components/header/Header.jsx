@@ -1,11 +1,19 @@
-const Header = () => {
-   
-        return (
-            <div className="header">
-               
+import styles from "./Header.module.css"
+import Language from "./Language";
+import Logo from "./Logo";
+
+
+function Header() {
+
+    return (
+        <div className={styles.header}>
+            <div className={styles.box}>
+            <Logo />
             </div>
-    
-        )
-    }
-    
-    export default Header;
+            <Language/>
+        </div>
+
+    )
+}
+
+export default Header;
