@@ -7,9 +7,9 @@ function Header() {
 
     return (
         <div className={styles.header}>
-            <div className={styles.box}>
+            
             <Logo />
-            </div>
+           
             <Language/>
         </div>
 
