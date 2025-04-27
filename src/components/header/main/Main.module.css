@@ -2,7 +2,7 @@
     width: 1140px;
     height: 920px;
     border: 1px solid none;
-    margin-top: 97px;
+    margin-top: 87px;
     margin-left: 540px;
     border-top-right-radius: 10px;
     border-bottom-left-radius: 10px;
@@ -131,3 +131,24 @@
     color: var(--White);
 
 }
+
+
+@media screen and (max-width: 1200px) {
+    .main {
+      flex-direction: column;
+      width: 100%;
+      margin-left: 0;
+      align-items: center;
+    }
+  
+    .box1, .box2 {
+      width: 100%;
+      border-radius: 0;
+      height: auto;
+    }
+  
+    .inputicon, .input, .h3, .button1 {
+      margin-left: 0;
+      align-self: center;
+    }
+  }

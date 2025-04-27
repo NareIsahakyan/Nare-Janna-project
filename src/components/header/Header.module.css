@@ -45,3 +45,22 @@
     margin-left: 770px;
     margin-top: 50px;
 }
+
+@media screen and (max-width: 768px) {
+    .header {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .box {
+      margin-left: 0;
+      margin-top: 20px;
+    }
+  
+    .Language {
+      margin-left: 0;
+      margin-top: 20px;
+      flex-direction: column;
+      align-items: center;
+    }
+  }
