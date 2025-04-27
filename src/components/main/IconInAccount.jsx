@@ -1,7 +1,7 @@
 import styles from "./Main.module.css"
-import fac from "../../../imeges/facebook.png"
-import inst from "../../../imeges/instagram.png"
-import link from "../../../imeges/linkedin.png"
+import fac from "../../imeges/facebook.png"
+import inst from "../../imeges/instagram.png"
+import link from "../../imeges/linkedin.png"
 function IconInAccount(){
     return(
         <>

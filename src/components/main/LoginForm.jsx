@@ -1,5 +1,6 @@
-import email from "../../../imeges/email.png"
-import key from "../../../imeges/key.png"
+import { Link } from "react-router-dom"
+import email from "../../imeges/email.png"
+import key from "../../imeges/key.png"
 import styles from "./Main.module.css"
 function LoginForm(){
     return(
@@ -15,7 +16,7 @@ function LoginForm(){
             <img src={key } alt="key "className={styles.img1} />
             <input type="password" placeholder="Enter your password" className={styles.input}  />
             </div>
-            <button className={styles.button1}>Log in</button>
+         <button className={styles.button1}>Log in</button>
         </div>
 
         </>

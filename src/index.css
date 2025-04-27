@@ -4,6 +4,7 @@
   --LightBlack:#454545;
   --PastelPinke:#fff4ed;
   --GlacierGray:#C5C6C7;
+  
 }
 body {
  background: var(--PastelPinke);

@@ -1,0 +1,46 @@
+.projectDiv{
+    width: 233px;
+    height: 44px;
+    margin-top: 117px;
+    margin-left:580px;
+    border: none;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background: var( --GlacierGray);
+    display: flex;
+    flex-direction: row;
+}
+.p{
+    color: var(--White);
+    font-size: 17px;
+    margin-top: 10px;
+    margin-left: 20px;
+   
+}
+.addimg{
+    width: 24px;
+    height: 24px;
+    margin-top: 10px;
+    margin-left: 90px;
+}
+.box{
+    width: 830px;
+    height: 891px;
+    border: 1px solid black;
+    margin-left:580px ;
+    margin-top: 30px;
+}
+.boxProj{
+    width: 235px;
+    height: 291px;
+    border: 1px solid var( --GlacierGray);
+    margin-top: 10px;
+    margin-left: 5px;
+    border-top-right-radius:10px ;
+    border-bottom-left-radius:10px ;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    
+}
