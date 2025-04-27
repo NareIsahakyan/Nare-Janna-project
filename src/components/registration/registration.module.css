@@ -1,0 +1,25 @@
+.userRegistrationConteiner {
+    display: flex;
+    flex-direction: column;
+   justify-content: center;
+    align-items: center;
+    width:100%;
+    height:710px; 
+    margin-top: 110px;   
+}
+
+
+.userRegistration {
+    width: 374px;
+    height: 424px;
+    background-color: #e7e1f5;
+    border: none;
+}
+
+.crossButton{
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+    justify-content: flex-end;
+    margin: 5%;
+}

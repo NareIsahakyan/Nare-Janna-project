@@ -1,7 +1,8 @@
 import './i18n';
 import './App.css'
 import Header from './components/header/Header'
-import LoginPage from './components/main/loginPage/LoginPage'
+
+import UserRegistration from './components/registration/UserRegistration';
 
 function App() {
   
@@ -9,9 +10,7 @@ function App() {
   return (
     <>
      <Header/>
-     <div style={{width:"100px",height:"100px",backgroundColor:"blue"}}></div>
-<h>Hello</h>
-     <LoginPage/>
+     <UserRegistration/>
     </>
   )
 }
