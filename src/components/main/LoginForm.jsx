@@ -16,7 +16,7 @@ function LoginForm(){
             <img src={key } alt="key "className={styles.img1} />
             <input type="password" placeholder="Enter your password" className={styles.input}  />
             </div>
-         <button className={styles.button1}>Log in</button>
+            <button className={styles.button1}>Log in</button>
         </div>
 
         </>

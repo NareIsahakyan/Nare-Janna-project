@@ -6,6 +6,7 @@ import NewProjectBox from "./NewProjectBox"
 function DashboardPage(){
     return(
         <>
+        
         <NewProjectAdd/>
         <NewProjectBox/>
         </>
