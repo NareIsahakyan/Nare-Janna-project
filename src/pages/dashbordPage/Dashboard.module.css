@@ -23,7 +23,7 @@
     width: 24px;
     height: 24px;
     margin-top: 10px;
-    margin-left: 90px;
+    margin-left: 85px;
 }
 .box{
     width: 830px;
@@ -95,4 +95,55 @@
     margin-top: 10px;
     background: var(--GlacierGray);
     margin-left: 15px;
+}
+.boxrow{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+
+.boxAdd{
+    width: 250px;
+    height: 950px;
+    border:  1px solid black;
+    margin-top: -30px;
+    background:var(--FNAFWorld) ;
+}
+.h2{
+    color: var(--White);
+}
+.userDiv{
+    width: 230px;
+    height: 44px;
+    margin-left: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background: var( --GlacierGray);
+    display: flex;
+    flex-direction: row;
+}
+.avatarName{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    gap: 10px;
+}
+.nameSurname{
+    display: flex;
+    flex-direction: column;
+    
+}
+.SurName{
+    font-size: 25px;
+    margin-top: 10px;
+}
+.name{
+    font-size: 20px;
+    margin-top: -15px;
+}
+.ava{
+    width: 80px;
+    height: 80px;
 }
