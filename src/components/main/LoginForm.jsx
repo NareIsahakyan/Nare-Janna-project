@@ -1,8 +1,13 @@
-import { Link } from "react-router-dom"
+import { Link, useNavigate } from "react-router-dom"
 import email from "../../imeges/email.png"
 import key from "../../imeges/key.png"
 import styles from "./Main.module.css"
+import DashboardPage from "../../pages/dashbordPage/DashboardCom"
 function LoginForm(){
+    const navigate =useNavigate()
+    const handleLogin=()=>{
+         navigate("/dashboard")
+    }
     return(
         <>
         <div>
@@ -16,7 +21,7 @@ function LoginForm(){
             <img src={key } alt="key "className={styles.img1} />
             <input type="password" placeholder="Enter your password" className={styles.input}  />
             </div>
-            <button className={styles.button1}>Log in</button>
+            <button className={styles.button1} onClick={handleLogin}>Log in</button>
         </div>
 
         </>

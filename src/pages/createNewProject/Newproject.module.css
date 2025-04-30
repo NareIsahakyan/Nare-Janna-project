@@ -1,0 +1,81 @@
+.createNewProject{
+    width: 997px;
+    height: 486px;
+    margin-top: 200px;
+    margin-left: 600px;
+    box-shadow: 0.5px 0.5px 0.5px 1px var( --GlacierGray) ;
+    background:var(--White);
+    
+}
+.projectName{
+    width: 495px;
+    height: 24px;
+    margin-top: 60px;
+    margin-left: 40px;
+    border: 1px solid var(--GlacierGray);
+    border-top-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    border-top-left-radius: 2px;
+    background: var(--GlacierGray);
+}
+.projectImge{
+    width: 340px;
+    height: 184px;
+    border: 1px solid var(--GlacierGray);
+    border-top-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    border-top-left-radius: 12px;
+    margin-top:104px ;
+    margin-left: 40px;
+    background: var(--GlacierGray);
+}
+.imge_info{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+.info{
+    width: 495px;
+    height: 24px;
+    border: 1px solid var(--GlacierGray);
+    border-top-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    border-top-left-radius: 2px;
+    background: var(--GlacierGray);
+    margin-top: 120px;
+    
+}
+.date1{
+    margin-left: 30px;
+}
+.av-add{
+  margin-left: 30px;
+  display: flex;
+  flex-direction: row;
+}
+.add{
+    width: 15px;
+    height: 15px;
+    margin-right: 800px;
+    margin-top: -300px;
+}
+.av{
+    margin-left: 30px;
+}
+
+.button2{
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    width: 200px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 700px;
+    background: var(--FNAFWorld);
+    border: 1px solid var(--White);
+    color: var(--White);
+}
