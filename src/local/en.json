@@ -1,5 +1,11 @@
 {
     "translation": {
-        "name": "Project JN"
+        "name": "Project JN",
+        "fullName":"Name Surname",
+        "image":"Image",
+        "email":"EMAIL",
+        "addNewUser":"Add new user",
+        "add":"Add",
+        "newTaskbar":"New Taskbar"
     }
 }

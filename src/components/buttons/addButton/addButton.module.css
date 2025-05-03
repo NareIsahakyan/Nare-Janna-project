@@ -1,0 +1,9 @@
+.addButton{
+    background-color: #bfbfc0;
+    border-radius: 5px;
+    border: 1px solid #ababac;
+    cursor: pointer;
+    color: #4f425e;
+    width:132px ;
+    height:42px ;
+}

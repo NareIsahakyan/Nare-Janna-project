@@ -1,4 +1,3 @@
-import PlusButton from "../buttons/plus/PlusButton";
 import NewTaskbarAdd from "./NewTaskbarAdd";
 import styles from "./taskbar.module.css";
 import { useTranslation } from "react-i18next";

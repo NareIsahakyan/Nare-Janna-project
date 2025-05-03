@@ -1,5 +1,11 @@
 {
     "translation": {
-        "name": "Проект JN"
+        "name": "Проект JN",
+        "fullName":"Имя Фамилия",
+        "image":"Изображение",
+        "email":"EMAIL",
+        "addNewUser":"Добавить нового пользователя",
+        "add":"Добавить",
+        "newTaskbar":"Новая панель задач"
     }
     }

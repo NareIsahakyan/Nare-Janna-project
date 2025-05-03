@@ -1,5 +1,11 @@
 {
     "translation": {
-        "name": "Պրոեկտ JN"
+        "name": "Պրոեկտ JN",
+        "fullName":"Անուն Ազգանուն",
+        "image":"Պատկեր",
+        "email":"EMAIL",
+        "addNewUser":"Ավելացնել նոր օգտվող",
+        "add":"Ավելացնել",
+        "newTaskbar":"Նոր առաջադրանքների տող"
     }
 }
