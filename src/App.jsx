@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <Header />
-      {/* <UserRegistration/> */}
+      {/* <UserRegistration /> */}
       <Taskbar />
     </>
   );

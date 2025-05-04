@@ -1,7 +1,8 @@
 import PlusButton from "../buttons/pluse/PlusButton";
 import styles from "./taskbar.module.css";
 import { useTranslation } from "react-i18next";
-const NewTaskbarAdd = () => {
+
+const NewTaskbarAdd = ({ clickHandler }) => {
   const { t } = useTranslation();
   function clickHandler() {}
   return (
@@ -11,7 +12,7 @@ const NewTaskbarAdd = () => {
           <p>{t("newTaskbar")}</p>
         </div>
         <div>
-          <PlusButton onClick={clickHandler} />
+          <PlusButton clickHandler={clickHandler} />
         </div>
       </div>
     </>
