@@ -22,6 +22,21 @@
   margin: 18px;
 }
 
+.taskName {
+  width: 233px;
+  height: 44px;
+  color: #f0eef5;
+  background-color: #4f425e;
+  border-radius: 5px;
+  border: 1 solid #4f425e;
+  font-size: 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+}
+
 .taskbar {
   overflow: scroll;
   scrollbar-color: #4f425e #bfbfc0;
@@ -52,4 +67,15 @@
   padding-right: 5%;
   color: #f0eef5;
   background-color: #4f425e;
+}
+
+.task {
+  width: 265px;
+  min-height: 690px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  background-color: #f8f7fa;
+  overflow: auto;
+  scrollbar-color: #4f425e #bfbfc0;
 }

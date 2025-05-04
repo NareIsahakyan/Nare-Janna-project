@@ -2,7 +2,7 @@ import PlusButton from "../buttons/pluse/PlusButton";
 import styles from "./taskbar.module.css";
 import { useTranslation } from "react-i18next";
 
-const NewTaskbarAdd = ({ clickHandler }) => {
+const NewTaskbarAdd = (props) => {
   const { t } = useTranslation();
   function clickHandler() {}
   return (
@@ -12,7 +12,7 @@ const NewTaskbarAdd = ({ clickHandler }) => {
           <p>{t("newTaskbar")}</p>
         </div>
         <div>
-          <PlusButton clickHandler={clickHandler} />
+          <PlusButton addNewCalumn={props.addNewCalumn} />
         </div>
       </div>
     </>

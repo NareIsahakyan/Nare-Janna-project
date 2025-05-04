@@ -32,7 +32,7 @@ const Taskbar = () => {
               </div>
 
               <div>
-                <NewTaskbarAdd clickHandler={addNewCalumn} />
+                <NewTaskbarAdd addNewCalumn={addNewCalumn} />
               </div>
             </div>
           </div>
