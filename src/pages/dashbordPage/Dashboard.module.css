@@ -33,6 +33,7 @@
     margin-top: 30px;
     display: flex;
     flex-wrap: wrap;
+    overflow-y: scroll;
 }
 .boxProj{
     width: 235px;

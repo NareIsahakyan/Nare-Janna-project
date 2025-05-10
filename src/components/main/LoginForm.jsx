@@ -3,6 +3,7 @@ import email from "../../imeges/email.png"
 import key from "../../imeges/key.png"
 import styles from "./Main.module.css"
 import DashboardPage from "../../pages/dashbordPage/DashboardCom"
+
 function LoginForm(){
     const navigate =useNavigate()
     const handleLogin=()=>{

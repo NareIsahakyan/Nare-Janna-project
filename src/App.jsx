@@ -11,16 +11,17 @@ import AddPersonBox from './pages/addPerson/AddPersonBox'
 
 function App() {
   const [count, setCount] = useState(0)
- /* <Routes>
-      <Route path='/dashboard' element={<DashboardPage/>}/>
-    </Routes>*/
+
   //  <Main/>
   //<CreateNewProject/>
+  //   <AddPersonBox/>
+  //<DashboardPage/>
   return (
     <>
     <Header/>
     <AddPersonBox/>
     
+
     </>
   )
 }

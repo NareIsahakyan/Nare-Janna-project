@@ -1,3 +1,5 @@
+/*This is the add person bxi css file*/
+
 .boxadd{
     width: 374px;
     height: 612px;
@@ -6,6 +8,7 @@
     border: 1px solid var( --GlacierGray);
     box-shadow: 0.5px 0.5px 0.5px 1px var( --GlacierGray) ;
     background: var(--White);
+    overflow-y: scroll;
 }
 .h3{
     display: flex;
