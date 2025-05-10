@@ -97,6 +97,15 @@
     background: var(--GlacierGray);
     margin-left: 15px;
 }
+.avatar1{
+    color:blue;
+}
+.avatar2{
+    color:red;
+}
+.avatar3{
+    color:orange;
+}
 .boxrow{
     display: flex;
     flex-direction: row;
