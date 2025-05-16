@@ -1,4 +1,4 @@
-
+/* This is a component that contains all the components that are intended for creating a new project.*/
 
 import AvatarAndAdd from "./AvatarAndAdd"
 import ButtonProject from "./ButtonProject"

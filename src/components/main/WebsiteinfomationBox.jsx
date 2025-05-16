@@ -1,3 +1,5 @@
+/*Component box for site information */
+
 import styles from "./Main.module.css"
 import Websiteinfomation from "./Websiteinfomation"
 

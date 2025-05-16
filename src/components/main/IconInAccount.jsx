@@ -1,3 +1,6 @@
+/* A component designed to draw icons for widgets.*/
+
+
 import styles from "./Main.module.css"
 import fac from "../../imeges/facebook.png"
 import inst from "../../imeges/instagram.png"

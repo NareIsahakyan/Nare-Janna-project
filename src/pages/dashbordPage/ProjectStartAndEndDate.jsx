@@ -1,3 +1,4 @@
+/*Is a component for marking the beginning and end of a project*/
 import styles from "./Dashboard.module.css"
 
 

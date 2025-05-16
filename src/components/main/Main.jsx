@@ -1,3 +1,5 @@
+/* This is a general component that contains general information about the site and the logo box.*/
+
 import WebsiteinfomationBox from "./WebsiteinfomationBox"
 import styles from "./Main.module.css"
 import LoginPageInfo from "./LoginPageInfo"

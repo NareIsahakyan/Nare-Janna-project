@@ -1,3 +1,5 @@
+/*Is a component that holds added people*/
+
 import AddAvatarNameSurName from "../dashbordPage/AddAvatarNameSurName"
 
 

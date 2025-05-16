@@ -1,4 +1,4 @@
-
+/*Component to add to a new project*/
 import AddButton from "./AddButton"
 import styles from "./Dashboard.module.css"
 function NewProjectAdd(){

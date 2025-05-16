@@ -1,3 +1,5 @@
+/* Is a component that contains information about the site*/
+
 import styles from "./Main.module.css"
 
 

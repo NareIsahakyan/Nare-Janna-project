@@ -1,3 +1,5 @@
+/*Is a component that contains an avatar and an add button*/ 
+
 import Avatar from "../dashbordPage/Avatar"
 import add from  "../../imeges/add.png"
 import styles from "./Newproject.module.css"

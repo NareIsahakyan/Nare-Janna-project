@@ -1,3 +1,5 @@
+/*This is a button  to add*/
+
 import styles from "./AddPerson.module.css"
 
 function ButtonAddPerson(){

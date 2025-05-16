@@ -1,3 +1,5 @@
+/* Is a component that includes inputs for email and password*/
+
 import { Link, useNavigate } from "react-router-dom"
 import email from "../../imeges/email.png"
 import key from "../../imeges/key.png"

@@ -1,14 +1,11 @@
 /*This is a avatar  */
-
+/*Random avatra color*/
 import { useState } from "react"
 import styles from "./Dashboard.module.css"
 import AvatarJson from "../../json1/Avatra.json"
 function Avatar(){
      
     const [avatar,setAvatar]=useState(AvatarJson)
-  
-    
-
     return(
         <>
         <div className={styles.avatar}>

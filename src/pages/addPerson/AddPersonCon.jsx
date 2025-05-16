@@ -1,3 +1,5 @@
+/*Component that contains add personn*/
+
 import styles from "./AddPerson.module.css"
 
 function AddPersonCon(){

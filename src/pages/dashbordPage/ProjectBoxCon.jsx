@@ -1,3 +1,4 @@
+/*Componet project contact */
 import Avatar from "./Avatar"
 import styles from "./Dashboard.module.css"
 import ProjectStartAndEndDate from "./ProjectStartAndEndDate"

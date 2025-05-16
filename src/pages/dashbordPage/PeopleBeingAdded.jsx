@@ -1,3 +1,4 @@
+/*People list component */
 import styles from "./Dashboard.module.css"
 
 function PeopleBeingAdded(){

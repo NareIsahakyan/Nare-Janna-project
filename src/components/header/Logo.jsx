@@ -1,3 +1,5 @@
+/*A component designed to draw a logon img */
+
 import JN from "../../imeges/JN.png"
 import styles from "./Header.module.css"
 function Logo(){

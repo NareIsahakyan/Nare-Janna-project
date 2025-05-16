@@ -1,3 +1,4 @@
+/*Componenet that has new user data */
 import AddButton from "./AddButton"
 import styles from "./Dashboard.module.css"
 function AddNewUserCon(){

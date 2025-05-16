@@ -1,3 +1,5 @@
+/*Component avatar for first and last name */
+
 import Avatar from "./Avatar"
 import styles from "./Dashboard.module.css"
 
