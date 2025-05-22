@@ -76,7 +76,7 @@ const AddANewTask = () => {
           <div className={styles.imgdescriptions}>
             <img
               className={styles.image}
-              src="https://i.etsystatic.com/12950649/r/il/f7adc9/4544402562/il_570xN.4544402562_5y21.jpg"
+              src="https://i.etsystatic.com/44909653/r/il/3574ee/5103833222/il_570xN.5103833222_ood4.jpg"
               alt="U"
             />
             <textarea
