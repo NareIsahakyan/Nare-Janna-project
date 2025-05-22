@@ -1,10 +1,11 @@
 .checkButton {
   border: none;
-  cursor: pointer;
   background-color: "#4f425e";
+  cursor: pointer;
 }
 .checkImg {
   width: 24px;
   height: 24px;
   background-color: "#4f425e";
+  cursor: pointer;
 }

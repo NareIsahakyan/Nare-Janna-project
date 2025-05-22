@@ -1,0 +1,33 @@
+.aTask {
+  width: 235px;
+  margin: 15px;
+  padding: 2%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.aTask h3 {
+  background-color: #bfbfc0;
+  height: 22px;
+  border-radius: 6px;
+  padding: 5px;
+}
+.aTask p {
+  background-color: #bfbfc0;
+  height: 17px;
+  border-radius: 2px;
+  padding: 3px;
+}
+.aTask img {
+  width: 210px;
+  height: 110px;
+  background-color: #bfbfc0;
+  border-radius: 10px;
+  margin: 1%;
+}
+.taskPart {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

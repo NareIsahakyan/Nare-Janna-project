@@ -1,0 +1,6 @@
+[
+  { "id": "Backlog", "title": "Backlog" },
+  { "id": "Todo", "title": "To do" },
+  { "id": "Blocked", "title": "Blocked" },
+  { "id": "ToTest", "title": "To Test" }
+]
